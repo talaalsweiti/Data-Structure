@@ -7,4 +7,4 @@ Project 2 - Stack
 
 Project 3 - AVL tree + Hash
 
-Project 5 - Dijkstra’s shortest path algorithm
+Project 4 - Dijkstra’s shortest path algorithm
