@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624008089 source:c:\users\talaa\onedrive\proj\project5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+
